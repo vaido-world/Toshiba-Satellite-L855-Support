@@ -4,6 +4,8 @@ Personal information about L855-14E PSKFWE (Short Part Number)
  
 Motherboard: DK10FG-6050A2491301-MB-A03
 
+[Some schematics for Dk10F-6050A2541801-MB-A02, might be useful](https://github.com/vaido-world/Toshiba-Satellite-L855-Support/blob/main/Toshiba%20Sattelite%20C850%20C855%20(Inventec%20DAKAR%2010F-FG)%20.pdf)
+
 Drivers can be still downloaded at  
 https://emea.dynabook.com/support/drivers/
 
