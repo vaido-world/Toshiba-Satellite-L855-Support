@@ -1,6 +1,9 @@
 # Toshiba-Satellite-L855-Support
 Personal information about L855-14E PSKFWE (Short Part Number)
 
+ 
+Motherboard: DK10FG-6050A2491301-MB-A03
+
 Drivers can be still downloaded at  
 https://emea.dynabook.com/support/drivers/
 
