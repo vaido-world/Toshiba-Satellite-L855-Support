@@ -1,5 +1,5 @@
 # Toshiba-Satellite-L855-Support
-Personal information about L855 PSKFWE (Short Part Number)
+Personal information about L855-14E PSKFWE (Short Part Number)
 
 Drivers can be still downloaded at  
 https://emea.dynabook.com/support/drivers/
