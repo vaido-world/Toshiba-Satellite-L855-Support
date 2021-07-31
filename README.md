@@ -9,5 +9,5 @@ https://emea.dynabook.com/support/drivers/
 
 
 
-## Interesting Tweaks.
+## Interesting Tweaks to try out
 ![image](https://user-images.githubusercontent.com/21064622/127735848-fb98a101-ca96-44ca-9341-585a44ef6601.png)
